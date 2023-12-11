@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=👶)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=👶&fontSize=70&animation=fadeIn)
 <div align=center>
   <h1>Frontend Developer</h1>
 </div>
