@@ -1,9 +1,8 @@
 ### Hi there 👋
 
- <img src="https://img.shields.io/badge/자바스크립트-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 
-**CuteSungMin/CuteSungMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
