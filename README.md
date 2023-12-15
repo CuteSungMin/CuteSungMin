@@ -9,7 +9,6 @@
   <span><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /></span>
   <span><img src="https://img.shields.io/badge/Java script-F7DF1E?style=flat&logo=javascript&logoColor=white" /></span>
   <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></span>
-  <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /></span>
   <span><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" /></span>
 </div>
 <br>
