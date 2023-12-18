@@ -3,6 +3,10 @@
   <h1>Frontend Developer</h1>
 </div>
 <br>
+
+<p align=center>2023.05.31 ~</p>
+<br>
+
 <div align=center>
   <span>💪 열심히 하는중 입니다! </span> 
   <br>
