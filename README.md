@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<p align=center>2023.05.31 ~</p>
+<p align=center>2023.05.31 ~ 공부중 입니다!!</p>
 <br>
 
 <div align=center>
