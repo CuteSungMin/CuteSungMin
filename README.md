@@ -25,7 +25,8 @@
   <span><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" /></span>
   <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /></span>
   <span><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /></span>
-    <span><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white" /></span>
+  <span><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white" /></span>
+  <span><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=white" /></span>
 </div>
 <br>
 <div align=center>
